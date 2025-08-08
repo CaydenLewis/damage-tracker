@@ -1,0 +1,25 @@
+{
+  "name": "damage-tracker",
+  "version": "1.0.0",
+  "description": "A page were you can track and update any damage to the vehicle fleet.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaydenLewis/damage-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaydenLewis/damage-tracker/issues"
+  },
+  "homepage": "https://github.com/CaydenLewis/damage-tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
